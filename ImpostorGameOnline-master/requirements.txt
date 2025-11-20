@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+websockets
+# O Render ou Railway usará este arquivo para instalar tudo.
