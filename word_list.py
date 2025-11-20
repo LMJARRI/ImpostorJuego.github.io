@@ -1,0 +1,42 @@
+# word_list.py
+# Lista de palavras para o jogo Impostor Online
+# Formato: (PALAVRA REAL para Inocentes, PALAVRA FAKE para o Impostor)
+
+WORD_PAIRS = [
+    ("Computador", "Teclado"),
+    ("Banana", "Maçã"),
+    ("Sol", "Lua"),
+    ("Pássaro", "Avião"),
+    ("Carro", "Ônibus"),
+    ("Chocolate", "Café"),
+    ("Fogo", "Água"),
+    ("Livro", "Revista"),
+    ("Cadeira", "Mesa"),
+    ("Montanha", "Colina"),
+    ("Verde", "Azul"),
+    ("Pizza", "Pão"),
+    ("Oceano", "Rio"),
+    ("Cachorro", "Gato"),
+    ("Sapato", "Meia"),
+    ("Música", "Rádio"),
+    ("Cabelo", "Pele"),
+    ("Floresta", "Árvore"),
+    ("Estrela", "Cometa"),
+    ("Vento", "Ar"),
+    ("Telefone", "Celular"),
+    ("Geladeira", "Fogão"),
+    ("Abelha", "Mosca"),
+    ("Diamante", "Gelo"),
+    ("Ouro", "Prata"),
+    ("Castelo", "Iglu"),
+    ("Trovão", "Raio"),
+    ("Escola", "Biblioteca"),
+    ("Tênis", "Chuteira"),
+    ("Canoa", "Barco"),
+    ("Esquilo", "Castor"),
+    ("Jardim", "Floresta"),
+    ("Astronauta", "Piloto"),
+    # Adicione mais pares aqui!
+    # ("Primavera", "Outono"),
+    # ("Relógio", "Tempo"),
+]
